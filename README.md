@@ -1,55 +1,49 @@
-# ⚡ Chaithanya | DevOps Geek | Breaking & Fixing Things in the Cloud  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Chaithanya+%7C+DevOps+Geek+%7C+Cloud+Architect" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20%26%20DevOps%20Engineer-Breaking %26 Fixing Things in the Cloud-FF9900?style=for-the-badge&logo=amazonaws" alt="Banner" />
+</p>
 
 ![DevOps Workflow](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) | ![Automation GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-🚀 **MBA | AWS Cloud & DevOps Engineer**  
-🔹 Passionate about automating infrastructure, streamlining CI/CD pipelines, and optimizing cloud-native applications.  
-🔹 I specialize in **AWS, DevOps, and Cloud Automation**, ensuring scalable, secure, and efficient deployments.  
+## 🚀 About Me  
+🔹 **MBA | AWS Cloud & DevOps Engineer**  
+🔹 I live to **automate infrastructure**, **streamline CI/CD pipelines**, and **optimize cloud-native apps**.  
+🔹 Crafting scalable, secure deployments with **AWS, Terraform, Kubernetes**, and more.  
+🔹 Catch me breaking things in the cloud—and fixing them better!  
 
 ---
 
-## 🚀 My Tech Stack  
+## 🚀 Tech Stack  
 
-### ☁️ Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)  
-
-### 🔄 Version Control  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-
-### ⚙️ CI/CD & DevOps Tools  
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) 
-![Nexus](https://img.shields.io/badge/Nexus-%23000000.svg?style=for-the-badge&logo=sonatype&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)  
-![Trivy](https://img.shields.io/badge/Trivy-%23FF4081.svg?style=for-the-badge&logo=trivy&logoColor=white)  
-
-### 🐳 Containers & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker Scout](https://img.shields.io/badge/Docker%20Scout-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-
-### 🔧 Configuration Management  
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)  
-
-### 📊 Monitoring & Security  
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)  
-
-### 🌐 Web Servers  
-![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black) 
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
-
-### 📝 Programming & Scripting  
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-
-### 🔥 Other  
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23005A9C.svg?style=for-the-badge&logo=ml&logoColor=white)  
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50"><br><b>AWS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"><br>Terraform</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"><br>Jenkins</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"><br>Maven</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"><br>SonarQube</td>
+    <td align="center"><img src="https://github.com/your-github-username/your-repo/raw/main/images/nexus-logo.svg" width="50"><br><b>Nexus</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"><br>Kubernetes</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"><br>Ansible</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"><br>Prometheus</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"><br>Grafana</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"><br>Nginx</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"><br>Tomcat</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"><br>Bash</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br>HTML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"><br>Jira</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"><br>Linux</td>
+  </tr>
+</table>
 
 ---
 
@@ -63,8 +57,12 @@
 ---
 
 ## 📫 Connect with Me  
-📧 **Email:** [mailz4chaithanya@gmail.com](mailto:mailz4chaithanya@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/karthick-chaithanya](https://linkedin.com/in/karthick-chaithanya)  
+<a href="mailto:mailz4chaithanya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mailz4chaithanya@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+</a>  
+<a href="https://linkedin.com/in/karthick-chaithanya">
+  <img src="https://img.shields.io/badge/LinkedIn-karthick--chaithanya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
 ---
 
